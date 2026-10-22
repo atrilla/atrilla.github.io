@@ -2,7 +2,7 @@
 
 - **Research Engineer & Data Scientist**
 - Barcelona, Catalunya (Spain)
-- alex.trilla@proton.me
+- alex@atrilla.cat
 
 
 ## Short Bio
